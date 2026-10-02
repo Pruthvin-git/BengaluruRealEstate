@@ -1,0 +1,4298 @@
+{
+  "meta": {
+    "district": "Bengaluru Urban",
+    "approved_year": 2026,
+    "scraped_at": "2026-09-21",
+    "source": "https://rera.karnataka.gov.in/projectViewDetails",
+    "project_count": 229,
+    "capture": "latest_only"
+  },
+  "projects": [
+    {
+      "project_id": "14084",
+      "ack": "ACK/KA/RERA/1251/472/PR/250226/010051",
+      "reg": "PRM/KA/RERA/1251/472/PR/270226/008494",
+      "name": "SATTVA CITY",
+      "promoter": "SATTVA CITY PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 2477,
+          "demand": 453,
+          "inventory": 2024,
+          "parking_tables": 31
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14519",
+      "ack": "ACK/KA/RERA/1251/310/PR/090426/010161",
+      "reg": "PRM/KA/RERA/1251/310/PR/080626/008706",
+      "name": "APARNA WONDERWOODS",
+      "promoter": "APARNA CONSTRUCTIONS AND ESTATES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "08/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "11-07-2026",
+          "supply": 2211,
+          "demand": 0,
+          "inventory": 2211,
+          "parking_tables": 5
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14634",
+      "ack": "ACK/KA/RERA/1251/310/PR/080526/010235",
+      "reg": "PRM/KA/RERA/1251/310/PR/130526/008653",
+      "name": "Godrej Vanantara",
+      "promoter": "GODREJ IRISMARK PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "13/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 2140,
+          "demand": 1720,
+          "inventory": 420,
+          "parking_tables": 16
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14120",
+      "ack": "ACK/KA/RERA/1251/446/PR/241225/009885",
+      "reg": "PRM/KA/RERA/1251/446/PR/010126/008374",
+      "name": "Evergreen @ Prestige Raintree Park",
+      "promoter": "PRESTIGE ESTATES PROJECTS LTD",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "01/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 2000,
+          "demand": 1171,
+          "inventory": 829,
+          "parking_tables": 14
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14079",
+      "ack": "ACK/KA/RERA/1251/446/PR/111225/009848",
+      "reg": "PRM/KA/RERA/1251/446/PR/040226/008447",
+      "name": "MYHNA VISTARA",
+      "promoter": "MYHNA PROPERTIES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 1311,
+          "demand": 115,
+          "inventory": 1196,
+          "parking_tables": 7
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14207",
+      "ack": "ACK/KA/RERA/1251/308/PR/210526/010267",
+      "reg": "PRM/KA/RERA/1251/308/PR/260526/008686",
+      "name": "Nambiar District 25 Phase 3",
+      "promoter": "Nambiar EnsembleResidential Projects LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "26/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 1202,
+          "demand": 97,
+          "inventory": 1105,
+          "parking_tables": 8
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14136",
+      "ack": "ACK/KA/RERA/1251/446/PR/161225/009861",
+      "reg": "PRM/KA/RERA/1251/446/PR/210226/008479",
+      "name": "Adarsh Parkland Phase 2",
+      "promoter": "SHIVAKAR INFRA PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 979,
+          "demand": 137,
+          "inventory": 842,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14514",
+      "ack": "ACK/KA/RERA/1251/309/PR/260326/010127",
+      "reg": "PRM/KA/RERA/1251/309/PR/040426/008572",
+      "name": "TVS EMERALD ALTURA",
+      "promoter": "EMERALD HAVEN PROPERTIES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 975,
+          "demand": 0,
+          "inventory": 975,
+          "parking_tables": 12
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14359",
+      "ack": "ACK/KA/RERA/1251/308/PR/260226/010055",
+      "reg": "PRM/KA/RERA/1251/308/PR/120326/008521",
+      "name": "FOREST PROVINCE 1 @ MANA SKANDA THE RIGHT LIFE",
+      "promoter": "COLLAB PROJECTS LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "12/03/2026",
+      "filings": [
+        {
+          "quarter": "Q4",
+          "fy": "2025-26",
+          "submitted_on": "28-07-2026",
+          "supply": 884,
+          "demand": 0,
+          "inventory": 884,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14412",
+      "ack": "ACK/KA/RERA/1251/308/PR/080326/010085",
+      "reg": "PRM/KA/RERA/1251/308/PR/120326/008522",
+      "name": "FOREST PROVINCE 2 @ MANA SKANDA THE RIGHT LIFE",
+      "promoter": "COLLAB PROJECTS LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "12/03/2026",
+      "filings": [
+        {
+          "quarter": "Q4",
+          "fy": "2025-26",
+          "submitted_on": "28-07-2026",
+          "supply": 884,
+          "demand": 0,
+          "inventory": 884,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14348",
+      "ack": "ACK/KA/RERA/1251/308/PR/180226/010020",
+      "reg": "PRM/KA/RERA/1251/308/PR/260226/008489",
+      "name": "SEVEN SARJAPUR",
+      "promoter": "FORTUNE PRIMERO LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "26/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 856,
+          "demand": 172,
+          "inventory": 684,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14386",
+      "ack": "ACK/KA/RERA/1251/309/PR/220226/010033",
+      "reg": "PRM/KA/RERA/1251/309/PR/020326/008501",
+      "name": "GODREJ AVELINE",
+      "promoter": "GODREJ SSPDL GREEN ACRES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Mixed Development",
+      "approved_on": "02/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 849,
+          "demand": 674,
+          "inventory": 175,
+          "parking_tables": 10
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14282",
+      "ack": "TOR/ACK/KA/RERA/1251/446/PR/260430/010212",
+      "reg": "TOR/PRM/KA/RERA/1251/446/PR/260615/008348",
+      "name": "MAHINDRA BLOSSOM",
+      "promoter": "MAHINDRA BLOSSOM DEVELOPERS LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Mixed Development",
+      "approved_on": "15/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 733,
+          "demand": 516,
+          "inventory": 217,
+          "parking_tables": 7
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14481",
+      "ack": "ACK/KA/RERA/1251/446/PR/210326/010112",
+      "reg": "PRM/KA/RERA/1251/446/PR/240326/008549",
+      "name": "Brigade Belvedere",
+      "promoter": "Brigade Enterprises Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "24/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 690,
+          "demand": 233,
+          "inventory": 457,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14350",
+      "ack": "ACK/KA/RERA/1251/446/PR/100326/010090",
+      "reg": "PRM/KA/RERA/1251/446/PR/150426/008582",
+      "name": "NAVA VRUKSHA",
+      "promoter": "NAVA JYOTHI SHELTERS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "15/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 646,
+          "demand": 45,
+          "inventory": 601,
+          "parking_tables": 7
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14286",
+      "ack": "ACK/KA/RERA/1251/446/PR/220426/010182",
+      "reg": "PRM/KA/RERA/1251/446/PR/220526/008677",
+      "name": "Sumadhura Elysium Phase-I",
+      "promoter": "SUMADHURA BUILDWELL PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 638,
+          "demand": 0,
+          "inventory": 638,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14521",
+      "ack": "ACK/KA/RERA/1251/309/PR/060426/010155",
+      "reg": "PRM/KA/RERA/1251/309/PR/070526/008629",
+      "name": "Nikoo Homes 8, Bhartiya Garden Enclave, Phase-2",
+      "promoter": "Bhartiya Urban Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 574,
+          "demand": 0,
+          "inventory": 574,
+          "parking_tables": 5
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14461",
+      "ack": "ACK/KA/RERA/1251/309/PR/060426/010154",
+      "reg": "PRM/KA/RERA/1251/309/PR/070526/008628",
+      "name": "Nikoo Homes 8, Bhartiya Garden Enclave, Phase-1",
+      "promoter": "Bhartiya Urban Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 550,
+          "demand": 113,
+          "inventory": 437,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14430",
+      "ack": "ACK/KA/RERA/1251/472/PR/270226/010059",
+      "reg": "PRM/KA/RERA/1251/472/PR/050526/008621",
+      "name": "Assetz Miru & Miyo",
+      "promoter": "APG GREEN HOMES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "05/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 543,
+          "demand": 8,
+          "inventory": 535,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14615",
+      "ack": "ACK/KA/RERA/1251/310/PR/280426/010196",
+      "reg": "PRM/KA/RERA/1251/310/PR/200526/008667",
+      "name": "CASAGRAND MOONDANCE",
+      "promoter": "CASA GRANDE GARDEN CITY BUILDERS PVT LTD",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 504,
+          "demand": 451,
+          "inventory": 53,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14360",
+      "ack": "ACK/KA/RERA/1251/309/PR/110226/010003",
+      "reg": "PRM/KA/RERA/1251/309/PR/200326/008542",
+      "name": "Century Kindle Phase 1",
+      "promoter": "Hebbal Properties Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 504,
+          "demand": 257,
+          "inventory": 247,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14178",
+      "ack": "ACK/KA/RERA/1251/310/PR/111225/009849",
+      "reg": "PRM/KA/RERA/1251/310/PR/040226/008450",
+      "name": "Assetz Mizumi Reserve Tower A1 A2 A4",
+      "promoter": "APG COMMUNITY DEVELOPMENT PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 487,
+          "demand": 282,
+          "inventory": 205,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14394",
+      "ack": "ACK/KA/RERA/1251/446/PR/020326/010071",
+      "reg": "PRM/KA/RERA/1251/446/PR/180326/008539",
+      "name": "POULOMI FLORIQUE",
+      "promoter": "POULOMI FLORIQUE LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 448,
+          "demand": 32,
+          "inventory": 416,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14271",
+      "ack": "ACK/KA/RERA/1251/308/PR/100126/009925",
+      "reg": "PRM/KA/RERA/1251/308/PR/210126/008418",
+      "name": "Trifecta Veranza",
+      "promoter": "TRIFECTA PROJECTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 444,
+          "demand": 30,
+          "inventory": 414,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14442",
+      "ack": "ACK/KA/RERA/1251/472/PR/280226/010061",
+      "reg": "PRM/KA/RERA/1251/446/PR/280426/008605",
+      "name": "NIKHAR CELIO",
+      "promoter": "NIKHAR ESTATES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "28/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 438,
+          "demand": 11,
+          "inventory": 427,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14463",
+      "ack": "ACK/KA/RERA/1251/310/PR/190326/010110",
+      "reg": "PRM/KA/RERA/1251/310/PR/270326/008557",
+      "name": "SATTVA SONGBIRD PH 2",
+      "promoter": "Sattva Resi Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 424,
+          "demand": 43,
+          "inventory": 381,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14470",
+      "ack": "ACK/KA/RERA/1251/309/PR/200326/010111",
+      "reg": "PRM/KA/RERA/1251/309/PR/230326/008545",
+      "name": "Brigade Lumina",
+      "promoter": "Brigade Enterprises Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 416,
+          "demand": 411,
+          "inventory": 5,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14593",
+      "ack": "ACK/KA/RERA/1251/308/PR/030526/010215",
+      "reg": "PRM/KA/RERA/1251/308/PR/060526/008625",
+      "name": "ORCHID SOUTH PARK",
+      "promoter": "GOYAL HARIYANA CONSTRUCTIONS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "06/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 410,
+          "demand": 7,
+          "inventory": 403,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14315",
+      "ack": "ACK/KA/RERA/1251/309/PR/310126/009975",
+      "reg": "PRM/KA/RERA/1251/309/PR/160526/008662",
+      "name": "Century Astoria",
+      "promoter": "REALKRAFT VENTURES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "16/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "13-07-2026",
+          "supply": 403,
+          "demand": 98,
+          "inventory": 305,
+          "parking_tables": 5
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14107",
+      "ack": "ACK/KA/RERA/1251/310/PR/271125/009807",
+      "reg": "PRM/KA/RERA/1251/310/PR/020126/008378",
+      "name": "HABULUS TRANQUIL",
+      "promoter": "HABULUS BUILDERS AND DEVELOPERS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "02/01/2026",
+      "filings": [
+        {
+          "quarter": "Q4",
+          "fy": "2025-26",
+          "submitted_on": "15-04-2026",
+          "supply": 400,
+          "demand": 53,
+          "inventory": 347,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14374",
+      "ack": "ACK/KA/RERA/1251/310/PR/020326/010068",
+      "reg": "PRM/KA/RERA/1251/310/PR/270326/008555",
+      "name": "SURAKSHA WHISPERING WAVES",
+      "promoter": "R K SURAKSHA PROPERTIES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 400,
+          "demand": 11,
+          "inventory": 389,
+          "parking_tables": 6
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14270",
+      "ack": "ACK/KA/RERA/1251/446/PR/050226/009985",
+      "reg": "PRM/KA/RERA/1251/446/PR/100326/008517",
+      "name": "SUMADHURA SOLEA",
+      "promoter": "SUMADHURA HOMES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "10/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 391,
+          "demand": 21,
+          "inventory": 370,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14204",
+      "ack": "ACK/KA/RERA/1251/308/PR/160126/009939",
+      "reg": "PRM/KA/RERA/1251/308/PR/110326/008519",
+      "name": "Fernvale @ The Prestige City",
+      "promoter": "PRESTIGE PROJECTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "11/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 387,
+          "demand": 295,
+          "inventory": 92,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14536",
+      "ack": "ACK/KA/RERA/1251/310/PR/310326/010138",
+      "reg": "PRM/KA/RERA/1251/310/PR/240426/008602",
+      "name": "MEMCO SKYLINE - JUTAKU",
+      "promoter": "MEMCO SKYLINE PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "24/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "13-07-2026",
+          "supply": 380,
+          "demand": 0,
+          "inventory": 380,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14381",
+      "ack": "ACK/KA/RERA/1251/446/PR/190226/010024",
+      "reg": "PRM/KA/RERA/1251/446/PR/170326/008533",
+      "name": "KEERTHI NANDINI THE ASCENT",
+      "promoter": "KEERTHI NANDINI LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Mixed Development",
+      "approved_on": "17/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "25-07-2026",
+          "supply": 379,
+          "demand": 0,
+          "inventory": 379,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14284",
+      "ack": "ACK/KA/RERA/1251/446/PR/210126/009951",
+      "reg": "PRM/KA/RERA/1251/446/PR/260226/008491",
+      "name": "Soul of the Seasons - Phase 2",
+      "promoter": "NBR Projects LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "26/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "11-07-2026",
+          "supply": 372,
+          "demand": 22,
+          "inventory": 350,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14421",
+      "ack": "ACK/KA/RERA/1251/310/PR/250226/010049",
+      "reg": "PRM/KA/RERA/1251/310/PR/270326/008558",
+      "name": "THE SEVEN",
+      "promoter": "Nestled Haven Realty Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 370,
+          "demand": 136,
+          "inventory": 234,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14203",
+      "ack": "ACK/KA/RERA/1251/308/PR/260226/010054",
+      "reg": "PRM/KA/RERA/1251/308/PR/180326/008537",
+      "name": "Eaton Park @ The Prestige City",
+      "promoter": "PRESTIGE PROJECTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 366,
+          "demand": 167,
+          "inventory": 199,
+          "parking_tables": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14520",
+      "ack": "ACK/KA/RERA/1251/308/PR/100426/010166",
+      "reg": "PRM/KA/RERA/1251/308/PR/130526/008650",
+      "name": "Assetz Mizumi Reserve Tower A3 A5",
+      "promoter": "APG COMMUNITY DEVELOPMENT PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "13/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 351,
+          "demand": 7,
+          "inventory": 344,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14119",
+      "ack": "ACK/KA/RERA/1251/310/PR/271125/009809",
+      "reg": "PRM/KA/RERA/1251/310/PR/230326/008543",
+      "name": "Arvind Skycrest",
+      "promoter": "Arvind Smart Homes Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 333,
+          "demand": 165,
+          "inventory": 168,
+          "parking_tables": 5
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14407",
+      "ack": "ACK/KA/RERA/1251/310/PR/060326/010080",
+      "reg": "PRM/KA/RERA/1251/310/PR/180326/008540",
+      "name": "RAINBOW UNO",
+      "promoter": "M/S. RAINVAS INFRAA",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 304,
+          "demand": 13,
+          "inventory": 291,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14687",
+      "ack": "ACK/KA/RERA/1251/446/PR/110626/010315",
+      "reg": "PRM/KA/RERA/1251/446/PR/220626/008740",
+      "name": "CONCORDE SIENNA",
+      "promoter": "Concorde Housing Corporation Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 286,
+          "demand": 0,
+          "inventory": 286,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "13635",
+      "ack": "ACK/KA/RERA/1251/446/PR/161225/009858",
+      "reg": "PRM/KA/RERA/1251/446/PR/050126/008382",
+      "name": "FOLIUM BY SUMADHURA PHASE-IV",
+      "promoter": "SUMADHURA INFRACON PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "05/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 280,
+          "demand": 34,
+          "inventory": 246,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14503",
+      "ack": "ACK/KA/RERA/1251/472/PR/090426/010162",
+      "reg": "PRM/KA/RERA/1251/472/PR/270426/008604",
+      "name": "BOLLINENI VIENNA",
+      "promoter": "KRISHNAIAH PROJECTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 279,
+          "demand": 18,
+          "inventory": 261,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14086",
+      "ack": "ACK/KA/RERA/1251/310/PR/011225/009820",
+      "reg": "PRM/KA/RERA/1251/310/PR/090126/008392",
+      "name": "COURTYARD BY VEDANTH SURAKSHA",
+      "promoter": "VEDANTH SURAKSHA PROPERTIES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 278,
+          "demand": 12,
+          "inventory": 266,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14431",
+      "ack": "ACK/KA/RERA/1251/308/PR/130326/010096",
+      "reg": "PRM/KA/RERA/1251/308/PR/170426/008589",
+      "name": "GMC CONFLUENCE",
+      "promoter": "Grihamithra Confra Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 270,
+          "demand": 0,
+          "inventory": 270,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14532",
+      "ack": "ACK/KA/RERA/1251/309/PR/300326/010133",
+      "reg": "PRM/KA/RERA/1251/309/PR/300626/008778",
+      "name": "DHRUVIJA GOPURA",
+      "promoter": "DHRUVIJA GOPURA",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "30/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 253,
+          "demand": 0,
+          "inventory": 253,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14563",
+      "ack": "ACK/KA/RERA/1251/446/PR/050426/010151",
+      "reg": "PRM/KA/RERA/1251/446/PR/240626/008750",
+      "name": "PAVANI MIRABILIA PHASE III",
+      "promoter": "Sai Sravanthi Infra Projects Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "24/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 239,
+          "demand": 0,
+          "inventory": 239,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14458",
+      "ack": "ACK/KA/RERA/1251/308/PR/060326/010084",
+      "reg": "PRM/KA/RERA/1251/308/PR/160426/008586",
+      "name": "Assetz Trees & Tandem -Tower A",
+      "promoter": "Infraedge Management Services Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "16/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 233,
+          "demand": 0,
+          "inventory": 233,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14085",
+      "ack": "ACK/KA/RERA/1251/472/PR/160226/010015",
+      "reg": "PRM/KA/RERA/1251/472/PR/040326/008503",
+      "name": "RIVIERA GLADE",
+      "promoter": "Goyal Hariyana Infrastructures",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 224,
+          "demand": 50,
+          "inventory": 174,
+          "parking_tables": 18
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14233",
+      "ack": "ACK/KA/RERA/1251/446/PR/070126/009918",
+      "reg": "PRM/KA/RERA/1251/446/PR/020226/008444",
+      "name": "SATORI RESIDENCE BY GENURISE",
+      "promoter": "MAX GLOBAL DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "02/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 207,
+          "demand": 11,
+          "inventory": 196,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14183",
+      "ack": "ACK/KA/RERA/1251/446/PR/191225/009876",
+      "reg": "PRM/KA/RERA/1251/446/PR/070126/008388",
+      "name": "SOBHA ALTAIR",
+      "promoter": "SOBHA LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "13-07-2026",
+          "supply": 207,
+          "demand": 39,
+          "inventory": 168,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14571",
+      "ack": "ACK/KA/RERA/1251/310/PR/280426/010195",
+      "reg": "PRM/KA/RERA/1251/310/PR/050526/008622",
+      "name": "DS MAX SKY SUKHINO",
+      "promoter": "DS MAX PROPERTIES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "05/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 206,
+          "demand": 20,
+          "inventory": 186,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14150",
+      "ack": "TOR/ACK/KA/RERA/1251/446/PR/251208/009839",
+      "reg": "TOR/PRM/KA/RERA/1251/446/PR/260219/007177",
+      "name": "SIDVIN CELESTE",
+      "promoter": "SIDVIN PROPERTIES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Mixed Development",
+      "approved_on": "19/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 203,
+          "demand": 9,
+          "inventory": 194,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14211",
+      "ack": "ACK/KA/RERA/1251/472/PR/261225/009890",
+      "reg": "PRM/KA/RERA/1251/472/PR/170326/008529",
+      "name": "4SQUARE PARK SIERRA",
+      "promoter": "4SQUARE ESTATES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 190,
+          "demand": 6,
+          "inventory": 184,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14450",
+      "ack": "ACK/KA/RERA/1251/308/PR/250326/010126",
+      "reg": "PRM/KA/RERA/1251/310/PR/310326/008560",
+      "name": "HEART OF HARMONY",
+      "promoter": "CKPC RESIDENCES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "31/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 188,
+          "demand": 31,
+          "inventory": 157,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14606",
+      "ack": "ACK/KA/RERA/1251/308/PR/240426/010185",
+      "reg": "PRM/KA/RERA/1251/308/PR/070526/008631",
+      "name": "VRUSHABADRI WINTER PARK",
+      "promoter": "VRUSHABADRI DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 188,
+          "demand": 3,
+          "inventory": 185,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14473",
+      "ack": "ACK/KA/RERA/1251/309/PR/160326/010104",
+      "reg": "PRM/KA/RERA/1251/309/PR/080426/008577",
+      "name": "KUMAR PLATINA",
+      "promoter": "KUMAR PROPERTIES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "08/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 184,
+          "demand": 32,
+          "inventory": 152,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14511",
+      "ack": "ACK/KA/RERA/1251/446/PR/060526/010224",
+      "reg": "PRM/KA/RERA/1251/446/PR/200626/008729",
+      "name": "Allure Avani Phase 2",
+      "promoter": "Allure Awani Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 176,
+          "demand": 0,
+          "inventory": 176,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14160",
+      "ack": "ACK/KA/RERA/1251/446/PR/091225/009844",
+      "reg": "PRM/KA/RERA/1251/446/PR/070126/008387",
+      "name": "THE LOFT",
+      "promoter": "VRISE CONSTRUCTIONS LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/01/2026",
+      "filings": [
+        {
+          "quarter": "Q4",
+          "fy": "2025-26",
+          "submitted_on": "08-04-2026",
+          "supply": 175,
+          "demand": 13,
+          "inventory": 162,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14274",
+      "ack": "ACK/KA/RERA/1251/310/PR/230126/009959",
+      "reg": "PRM/KA/RERA/1251/310/PR/040526/008618",
+      "name": "Assetz Muse & Maison",
+      "promoter": "Assetz Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 167,
+          "demand": 10,
+          "inventory": 157,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14088",
+      "ack": "ACK/KA/RERA/1251/308/PR/141125/009783",
+      "reg": "PRM/KA/RERA/1251/308/PR/220126/008422",
+      "name": "JANKAL STELLAR HEIGHTS",
+      "promoter": "JANKAL SANKALPA VENTURES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 165,
+          "demand": 0,
+          "inventory": 165,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14653",
+      "ack": "ACK/KA/RERA/1251/309/PR/160526/010255",
+      "reg": "PRM/KA/RERA/1251/309/PR/230626/008747",
+      "name": "Havena by KSR",
+      "promoter": "KSR BUILDERS AND DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 158,
+          "demand": 1,
+          "inventory": 157,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14369",
+      "ack": "ACK/KA/RERA/1251/446/PR/040326/010076",
+      "reg": "PRM/KA/RERA/1251/446/PR/110326/008520",
+      "name": "AURA",
+      "promoter": "BLUE SKY PROPERTIES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "11/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "08-07-2026",
+          "supply": 154,
+          "demand": 18,
+          "inventory": 136,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14735",
+      "ack": "ACK/KA/RERA/1251/446/PR/090626/010307",
+      "reg": "PRM/KA/RERA/1251/446/PR/230626/008748",
+      "name": "ZENITH HEIGHTS",
+      "promoter": "DWARAKAMAI BUILDERS AND DEVELOPERS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 154,
+          "demand": 0,
+          "inventory": 154,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14328",
+      "ack": "ACK/KA/RERA/1251/308/PR/020326/010066",
+      "reg": "PRM/KA/RERA/1251/308/PR/260326/008551",
+      "name": "Haven Phase 2",
+      "promoter": "Lodha Developers Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "26/03/2026",
+      "filings": [
+        {
+          "quarter": "Q4",
+          "fy": "2025-26",
+          "submitted_on": "14-04-2026",
+          "supply": 148,
+          "demand": 6,
+          "inventory": 142,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14187",
+      "ack": "ACK/KA/RERA/1251/308/PR/171225/009868",
+      "reg": "PRM/KA/RERA/1251/308/PR/230126/008427",
+      "name": "DS MAX SPOORTHI NEST",
+      "promoter": "DS MAX PROPERTIES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 142,
+          "demand": 23,
+          "inventory": 119,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14212",
+      "ack": "ACK/KA/RERA/1251/446/PR/030226/009981",
+      "reg": "PRM/KA/RERA/1251/446/PR/260226/008488",
+      "name": "PSR PLATINUM",
+      "promoter": "M/s PSR BUILDERS AND DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "26/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 137,
+          "demand": 0,
+          "inventory": 137,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14612",
+      "ack": "ACK/KA/RERA/1251/308/PR/270426/010192",
+      "reg": "PRM/KA/RERA/1251/308/PR/270526/008689",
+      "name": "S S PRAKRUTHI MEADOWS",
+      "promoter": "M/s. S.S. PROJECTS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "18-08-2026",
+          "supply": 136,
+          "demand": 13,
+          "inventory": 123,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14112",
+      "ack": "ACK/KA/RERA/1251/308/PR/261125/009805",
+      "reg": "PRM/KA/RERA/1251/308/PR/210226/008478",
+      "name": "Evershine StonePark",
+      "promoter": "Evershine Dwellings Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 130,
+          "demand": 4,
+          "inventory": 126,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14479",
+      "ack": "ACK/KA/RERA/1251/308/PR/240326/010120",
+      "reg": "PRM/KA/RERA/1251/308/PR/220526/008673",
+      "name": "PERLITE PREMIER",
+      "promoter": "M/s. PERLITE DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 126,
+          "demand": 0,
+          "inventory": 126,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "12843",
+      "ack": "ACK/KA/RERA/1251/308/PR/181225/009871",
+      "reg": "PRM/KA/RERA/1251/308/PR/050126/008381",
+      "name": "NVT A WONDERFUL WORLD PHASE I",
+      "promoter": "NVT QUALITY LIFESTYLE ESTATE LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "05/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 123,
+          "demand": 46,
+          "inventory": 77,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14190",
+      "ack": "ACK/KA/RERA/1251/446/PR/060426/010153",
+      "reg": "PRM/KA/RERA/1251/446/PR/220426/008598",
+      "name": "BALDOTA SUMMIT",
+      "promoter": "BALDOTA BUILDERS AND DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 120,
+          "demand": 2,
+          "inventory": 118,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14200",
+      "ack": "ACK/KA/RERA/1251/446/PR/090126/009920",
+      "reg": "PRM/KA/RERA/1251/446/PR/210126/008417",
+      "name": "JEYA GREEN HORIZON",
+      "promoter": "JEYA DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 120,
+          "demand": 15,
+          "inventory": 105,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "13930",
+      "ack": "ACK/KA/RERA/1251/310/PR/081225/009838",
+      "reg": "PRM/KA/RERA/1251/310/PR/230126/008425",
+      "name": "Melange One By Vaishnodevi",
+      "promoter": "VAISHNODEVI MELANGE ESTATES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "10-07-2026",
+          "supply": 114,
+          "demand": 43,
+          "inventory": 71,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14097",
+      "ack": "ACK/KA/RERA/1251/446/PR/181225/009872",
+      "reg": "PRM/KA/RERA/1251/446/PR/020126/008377",
+      "name": "REFLECTIONS 66",
+      "promoter": "HOUSE OF COLORS DEVELOPERS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "02/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 114,
+          "demand": 6,
+          "inventory": 108,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14643",
+      "ack": "ACK/KA/RERA/1251/472/PR/080626/010303",
+      "reg": "PRM/KA/RERA/1251/472/PR/200626/008731",
+      "name": "SAMBHAV RISE OF AURA",
+      "promoter": "SAMBHAV BULOKE REALTY LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 114,
+          "demand": 28,
+          "inventory": 86,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14336",
+      "ack": "ACK/KA/RERA/1251/309/PR/300126/009971",
+      "reg": "PRM/KA/RERA/1251/309/PR/170326/008531",
+      "name": "AMIGO ALFRESCO",
+      "promoter": "AMIGO SHELTERS PVT LTD",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "13-07-2026",
+          "supply": 110,
+          "demand": 1,
+          "inventory": 109,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14388",
+      "ack": "ACK/KA/RERA/1251/446/PR/180226/010022",
+      "reg": "PRM/KA/RERA/1251/446/PR/270526/008687",
+      "name": "SAMPOOJITHA HEIGHTS",
+      "promoter": "SAMPOOJITHA DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 100,
+          "demand": 0,
+          "inventory": 100,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14287",
+      "ack": "ACK/KA/RERA/1251/308/PR/260126/009964",
+      "reg": "PRM/KA/RERA/1251/308/PR/100326/008518",
+      "name": "Rishideep Sentosa",
+      "promoter": "Rishideep Ventures",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "10/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 93,
+          "demand": 6,
+          "inventory": 87,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14169",
+      "ack": "ACK/KA/RERA/1251/310/PR/171225/009866",
+      "reg": "PRM/KA/RERA/1251/310/PR/270426/008603",
+      "name": "POSCH",
+      "promoter": "Rroyal Indraprastha Infra Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 85,
+          "demand": 8,
+          "inventory": 77,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14147",
+      "ack": "ACK/KA/RERA/1251/446/PR/241225/009884",
+      "reg": "PRM/KA/RERA/1251/446/PR/200126/008414",
+      "name": "AAKRUTHI NEST",
+      "promoter": "KRITI BUILDERS AND DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 80,
+          "demand": 3,
+          "inventory": 77,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14326",
+      "ack": "ACK/KA/RERA/1251/446/PR/090326/010087",
+      "reg": "PRM/KA/RERA/1251/446/PR/220526/008672",
+      "name": "CLASSIQUE WILLOWBELL",
+      "promoter": "ALLEGRO MAHABALESHWARA VENTURES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 79,
+          "demand": 3,
+          "inventory": 76,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14658",
+      "ack": "ACK/KA/RERA/1251/308/PR/160526/010252",
+      "reg": "PRM/KA/RERA/1251/308/PR/210526/008671",
+      "name": "LEAFY AVENUE",
+      "promoter": "LEAFY REALTY LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 78,
+          "demand": 3,
+          "inventory": 75,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "13973",
+      "ack": "ACK/KA/RERA/1251/309/PR/141025/009700",
+      "reg": "PRM/KA/RERA/1251/309/PR/200126/008413",
+      "name": "SRI SAI BHARATH TOWERS",
+      "promoter": "SRI BHARATH DEVELOPRS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "12-07-2026",
+          "supply": 76,
+          "demand": 1,
+          "inventory": 75,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14129",
+      "ack": "ACK/KA/RERA/1251/446/PR/271225/009891",
+      "reg": "PRM/KA/RERA/1251/446/PR/220126/008424",
+      "name": "NEUMA ELYSEE",
+      "promoter": "Neuma Realty Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "13-07-2026",
+          "supply": 75,
+          "demand": 0,
+          "inventory": 75,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14223",
+      "ack": "ACK/KA/RERA/1251/446/PR/261225/009889",
+      "reg": "PRM/KA/RERA/1251/446/PR/200126/008415",
+      "name": "Park Lane",
+      "promoter": "A B & T LIFESTYLE SPACES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/01/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 75,
+          "demand": 0,
+          "inventory": 75,
+          "parking_tables": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14624",
+      "ack": "ACK/KA/RERA/1251/308/PR/190526/010261",
+      "reg": "PRM/KA/RERA/1251/308/PR/080626/008708",
+      "name": "LS MARK IX",
+      "promoter": "LIVING STRUCTURES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "08/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 67,
+          "demand": 0,
+          "inventory": 67,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14449",
+      "ack": "ACK/KA/RERA/1251/309/PR/270426/010193",
+      "reg": "PRM/KA/RERA/1251/309/PR/100626/008714",
+      "name": "Yafa Zinnia",
+      "promoter": "Yafa Properties",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "10/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 66,
+          "demand": 0,
+          "inventory": 66,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14531",
+      "ack": "ACK/KA/RERA/1251/446/PR/040626/010290",
+      "reg": "PRM/KA/RERA/1251/446/PR/220626/008737",
+      "name": "ROAHA VIVARA",
+      "promoter": "LANDCAPITAL INFRASTRUCTURE PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 64,
+          "demand": 0,
+          "inventory": 64,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14337",
+      "ack": "ACK/KA/RERA/1251/308/PR/030226/009980",
+      "reg": "PRM/KA/RERA/1251/308/PR/210226/008481",
+      "name": "SREE NIDHI BRINDHAVAN",
+      "promoter": "SREE NIDHI DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/02/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 64,
+          "demand": 1,
+          "inventory": 63,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14717",
+      "ack": "ACK/KA/RERA/1251/310/PR/060626/010296",
+      "reg": "PRM/KA/RERA/1251/310/PR/100626/008718",
+      "name": "THE NINTH BY AMBERSTONE",
+      "promoter": "AMBERSTONE PROPERTIES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "10/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 56,
+          "demand": 32,
+          "inventory": 24,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14020",
+      "ack": "ACK/KA/RERA/1251/446/PR/111125/009773",
+      "reg": "PRM/KA/RERA/1251/446/PR/070426/008573",
+      "name": "HMT SRI GAYATHRI SERENITY",
+      "promoter": "sdr constructions",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 53,
+          "demand": 0,
+          "inventory": 53,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14447",
+      "ack": "ACK/KA/RERA/1251/310/PR/030326/010072",
+      "reg": "PRM/KA/RERA/1251/310/PR/180326/008541",
+      "name": "SRIVARI BLISS",
+      "promoter": "SRIVARI SPRINGS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 52,
+          "demand": 0,
+          "inventory": 52,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "6842",
+      "ack": "ACK/KA/RERA/1251/446/PR/210326/010113",
+      "reg": "PRM/KA/RERA/1251/446/PR/110526/008641",
+      "name": "MAITREE VAJRA",
+      "promoter": "MAITREE DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "11/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 51,
+          "demand": 0,
+          "inventory": 51,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14645",
+      "ack": "ACK/KA/RERA/1251/308/PR/160526/010251",
+      "reg": "PRM/KA/RERA/1251/308/PR/210526/008669",
+      "name": "LEAFY SERENE",
+      "promoter": "LEAFY REALTY LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 48,
+          "demand": 1,
+          "inventory": 47,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "13644",
+      "ack": "ACK/KA/RERA/1251/308/PR/210725/009436",
+      "reg": "PRM/KA/RERA/1251/308/PR/200126/008411",
+      "name": "AAVYA HOMES",
+      "promoter": "SON INFRA ENTERPRISES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/01/2026",
+      "filings": [
+        {
+          "quarter": "Q4",
+          "fy": "2025-26",
+          "submitted_on": "15-07-2026",
+          "supply": 44,
+          "demand": 0,
+          "inventory": 44,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14260",
+      "ack": "ACK/KA/RERA/1251/308/PR/190126/009944",
+      "reg": "PRM/KA/RERA/1251/308/PR/300426/008609",
+      "name": "SAFFRON CREST",
+      "promoter": "SREEHAN INFRACON (OPC) PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "30/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 42,
+          "demand": 0,
+          "inventory": 42,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14542",
+      "ack": "ACK/KA/RERA/1251/446/PR/010426/010141",
+      "reg": "PRM/KA/RERA/1251/446/PR/130526/008649",
+      "name": "MGR BRINDAVAN",
+      "promoter": "MGR INFRA",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "13/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 40,
+          "demand": 0,
+          "inventory": 40,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14346",
+      "ack": "ACK/KA/RERA/1251/446/PR/180226/010019",
+      "reg": "PRM/KA/RERA/1251/446/PR/290426/008606",
+      "name": "WATERSONG",
+      "promoter": "PRIVAE REALTY LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "29/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 40,
+          "demand": 0,
+          "inventory": 40,
+          "parking_tables": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14533",
+      "ack": "ACK/KA/RERA/1251/309/PR/310326/010139",
+      "reg": "PRM/KA/RERA/1251/309/PR/290426/008607",
+      "name": "THE ARBOUR RESIDENCES",
+      "promoter": "F4 Estates LLP and G Corp Housing Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "29/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 37,
+          "demand": 3,
+          "inventory": 34,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14548",
+      "ack": "ACK/KA/RERA/1251/310/PR/230426/010183",
+      "reg": "PRM/KA/RERA/1251/310/PR/140526/008655",
+      "name": "BLAR 21",
+      "promoter": "BLIAR SURYA LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "14/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 33,
+          "demand": 0,
+          "inventory": 33,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14666",
+      "ack": "ACK/KA/RERA/1251/308/PR/210526/010265",
+      "reg": "PRM/KA/RERA/1251/308/PR/090626/008713",
+      "name": "NTD LAVENDER",
+      "promoter": "NATURE TRAIL DEVELOPERS LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 31,
+          "demand": 0,
+          "inventory": 31,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14492",
+      "ack": "ACK/KA/RERA/1251/309/PR/250326/010125",
+      "reg": "PRM/KA/RERA/1251/309/PR/180426/008593",
+      "name": "UMIYA PRISM",
+      "promoter": "UMIYA BUILDTEK",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/04/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "14-07-2026",
+          "supply": 25,
+          "demand": 2,
+          "inventory": 23,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14591",
+      "ack": "ACK/KA/RERA/1251/446/PR/210426/010180",
+      "reg": "PRM/KA/RERA/1251/310/PR/200626/008730",
+      "name": "Samanvitha Siena Terra",
+      "promoter": "SAMANVITHA PROJECTS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/06/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "29-07-2026",
+          "supply": 22,
+          "demand": 0,
+          "inventory": 22,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14351",
+      "ack": "ACK/KA/RERA/1251/310/PR/090326/010088",
+      "reg": "PRM/KA/RERA/1251/310/PR/260526/008682",
+      "name": "SRIVATSAV JUBILEE HERITAGE",
+      "promoter": "SRIVATSAV URBAN DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "26/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "28-07-2026",
+          "supply": 17,
+          "demand": 0,
+          "inventory": 17,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14661",
+      "ack": "ACK/KA/RERA/1251/309/PR/140526/010249",
+      "reg": "PRM/KA/RERA/1251/309/PR/250526/008680",
+      "name": "GRANDUS 118",
+      "promoter": "GRANDUS PROJECTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "25/05/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "08-07-2026",
+          "supply": 15,
+          "demand": 6,
+          "inventory": 9,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14327",
+      "ack": "ACK/KA/RERA/1251/446/PR/200226/010026",
+      "reg": "PRM/KA/RERA/1251/446/PR/060326/008509",
+      "name": "A M RAJSHEKAR",
+      "promoter": "A M RAJSHEKAR",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Plotted Development",
+      "approved_on": "06/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14960",
+      "ack": "ACK/KA/RERA/1251/310/PR/180826/010524",
+      "reg": "PRM/KA/RERA/1251/310/PR/030926/008907",
+      "name": "AARADHYA GARDENS",
+      "promoter": "SAI SAMRUDHI CONSTRUCTIONS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "03/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14925",
+      "ack": "ACK/KA/RERA/1251/310/PR/170826/010521",
+      "reg": "PRM/KA/RERA/1251/310/PR/020926/008905",
+      "name": "AAROHANA ALTERRA",
+      "promoter": "AAROHANA PROJECTS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "02/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14618",
+      "ack": "ACK/KA/RERA/1251/310/PR/010526/010213",
+      "reg": "PRM/KA/RERA/1251/310/PR/180726/008825",
+      "name": "AASHRITHAA  DIVINE  PHASE III",
+      "promoter": "AASHRITHAA PROPERTIES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "18/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14749",
+      "ack": "ACK/KA/RERA/1251/308/PR/130626/010325",
+      "reg": "PRM/KA/RERA/1251/308/PR/250826/008887",
+      "name": "ABHEE CITY URBAN GLENN PHASE I",
+      "promoter": "ABHEE VENTURES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "25/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14901",
+      "ack": "ACK/KA/RERA/1251/472/PR/030826/010476",
+      "reg": "PRM/KA/RERA/1251/472/PR/200826/008882",
+      "name": "ADITI NORTH STAR",
+      "promoter": "ADI DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14715",
+      "ack": "ACK/KA/RERA/1251/308/PR/170726/010429",
+      "reg": "PRM/KA/RERA/1251/308/PR/230726/008835",
+      "name": "AMBERSTONE VECTRA",
+      "promoter": "AMBERSTONE VENTURES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14425",
+      "ack": "TOR/ACK/KA/RERA/1251/310/PR/260303/010074",
+      "reg": "TOR/PRM/KA/RERA/1251/310/PR/260416/005733",
+      "name": "AMIDST NATURE",
+      "promoter": "CLIMATE CONNECTIONS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "16/04/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14792",
+      "ack": "ACK/KA/RERA/1251/310/PR/240626/010352",
+      "reg": "PRM/KA/RERA/1251/310/PR/160726/008814",
+      "name": "AMPLE LOTUS",
+      "promoter": "AMPLE INFRA",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "16/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14869",
+      "ack": "ACK/KA/RERA/1251/446/PR/100726/010400",
+      "reg": "PRM/KA/RERA/1251/446/PR/180826/008872",
+      "name": "AMPLE WHITE",
+      "promoter": "AMPLE INFRACON LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14866",
+      "ack": "ACK/KA/RERA/1251/310/PR/130726/010411",
+      "reg": "PRM/KA/RERA/1251/310/PR/100926/008929",
+      "name": "ANAND SOMU ASPIRE",
+      "promoter": "M/s ANAND GROUP AND C SOMASHEKAR",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "10/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14599",
+      "ack": "ACK/KA/RERA/1251/309/PR/180726/010430",
+      "reg": "PRM/KA/RERA/1251/309/PR/170826/008865",
+      "name": "ARANYA ONE",
+      "promoter": "MANASOUBHAGYA VENTURES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14824",
+      "ack": "ACK/KA/RERA/1251/446/PR/030726/010381",
+      "reg": "PRM/KA/RERA/1251/446/PR/090726/008800",
+      "name": "ARVIND SYLVA",
+      "promoter": "ARVIND SMARTHOMES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14886",
+      "ack": "ACK/KA/RERA/1251/472/PR/170726/010427",
+      "reg": "PRM/KA/RERA/1251/472/PR/220726/008831",
+      "name": "ASSETZ KVN NIWA & NEO",
+      "promoter": "Elite Projects",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "22/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14748",
+      "ack": "ACK/KA/RERA/1251/310/PR/110626/010317",
+      "reg": "PRM/KA/RERA/1251/310/PR/180726/008827",
+      "name": "ASTRO CITY BOULEVARDS PHASE 2",
+      "promoter": "ASTRO LAND DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "18/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14524",
+      "ack": "ACK/KA/RERA/1251/309/PR/270326/010128",
+      "reg": "PRM/KA/RERA/1251/309/PR/290626/008767",
+      "name": "Aratt-Escapes Phase 2",
+      "promoter": "ARATT CITY TOWERS LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Plotted Development",
+      "approved_on": "29/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14891",
+      "ack": "ACK/KA/RERA/1251/446/PR/220726/010439",
+      "reg": "PRM/KA/RERA/1251/446/PR/070826/008862",
+      "name": "Assetz Mizu & Ki",
+      "promoter": "APG SKYWARDS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14131",
+      "ack": "TOR/ACK/KA/RERA/1251/308/PR/251128/009813",
+      "reg": "TOR/PRM/KA/RERA/1251/308/PR/260223/001644",
+      "name": "Ayana Woods",
+      "promoter": "MAA ACORN LIFESTYLE PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "23/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14924",
+      "ack": "ACK/KA/RERA/1251/310/PR/040826/010481",
+      "reg": "PRM/KA/RERA/1251/310/PR/180826/008875",
+      "name": "Azalea at Brigade Meadows",
+      "promoter": "Brigade Enterprises Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "15031",
+      "ack": "ACK/KA/RERA/1251/310/PR/280826/010551",
+      "reg": "PRM/KA/RERA/1251/310/PR/110926/008939",
+      "name": "BANYAN TREE",
+      "promoter": "VENKATESH P SARATHY",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "11/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14842",
+      "ack": "ACK/KA/RERA/1251/310/PR/030726/010378",
+      "reg": "PRM/KA/RERA/1251/310/PR/190826/008877",
+      "name": "BELVOIR",
+      "promoter": "KINGLIFE INFRA PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "19/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13799",
+      "ack": "ACK/KA/RERA/1251/310/PR/031225/009827",
+      "reg": "PRM/KA/RERA/1251/310/PR/170126/008409",
+      "name": "BODHI",
+      "promoter": "M/s Cardinal Energy and Infrastructure Private Limited.",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "6972",
+      "ack": "ACK/KA/RERA/1251/446/PR/020726/010376",
+      "reg": "PRM/KA/RERA/1251/446/PR/240726/008838",
+      "name": "Bhavya Triora",
+      "promoter": "Bhavya Constructions",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "24/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14911",
+      "ack": "ACK/KA/RERA/1251/446/PR/090826/010492",
+      "reg": "PRM/KA/RERA/1251/446/PR/190826/008878",
+      "name": "Boulevard at Godrej Woodscapes",
+      "promoter": "GODREJ PROPERTIES LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Commercial",
+      "approved_on": "19/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14557",
+      "ack": "ACK/KA/RERA/1251/310/PR/210426/010178",
+      "reg": "PRM/KA/RERA/1251/310/PR/260526/008684",
+      "name": "CASPER VALLEY",
+      "promoter": "AURA WAVE ESTATES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "26/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14167",
+      "ack": "ACK/KA/RERA/1251/310/PR/050226/009991",
+      "reg": "PRM/KA/RERA/1251/310/PR/180226/008472",
+      "name": "COMMUNE BY ARE PAHSE 2",
+      "promoter": "R G Anil",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "18/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14094",
+      "ack": "ACK/KA/RERA/1251/310/PR/050226/009990",
+      "reg": "PRM/KA/RERA/1251/310/PR/180226/008471",
+      "name": "COMMUNE BY ARE PHASE 1",
+      "promoter": "R G Anil",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "18/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14669",
+      "ack": "ACK/KA/RERA/1251/446/PR/210526/010266",
+      "reg": "PRM/KA/RERA/1251/446/PR/160726/008813",
+      "name": "COSMOS",
+      "promoter": "CORBITAL BUILDERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "16/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14164",
+      "ack": "ACK/KA/RERA/1251/309/PR/301225/009898",
+      "reg": "PRM/KA/RERA/1251/309/PR/180826/008876",
+      "name": "Century OneWorld Seraya Phase 3",
+      "promoter": "Century Dwellings Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Plotted Development",
+      "approved_on": "18/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14870",
+      "ack": "ACK/KA/RERA/1251/446/PR/240726/010454",
+      "reg": "PRM/KA/RERA/1251/446/PR/250826/008892",
+      "name": "Disha Pursuit of Radiance",
+      "promoter": "DISHAHABITAT HOMES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "25/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13845",
+      "ack": "ACK/KA/RERA/1251/472/PR/300825/009569",
+      "reg": "PRM/KA/RERA/1251/472/PR/200126/008412",
+      "name": "EARTH SOUL",
+      "promoter": "EARTH SOUL VENTURES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Plotted Development",
+      "approved_on": "20/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14184",
+      "ack": "ACK/KA/RERA/1251/310/PR/050126/009907",
+      "reg": "PRM/KA/RERA/1251/310/PR/170326/008528",
+      "name": "ELEGANT MYSTIC ELITE",
+      "promoter": "ELEGANT BUILDERS AND DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "17/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14997",
+      "ack": "ACK/KA/RERA/1251/309/PR/010926/010559",
+      "reg": "PRM/KA/RERA/1251/309/PR/090926/008924",
+      "name": "EMBASSY RIVERINE",
+      "promoter": "SUMMIT DEVELOPMENTS LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "15000",
+      "ack": "ACK/KA/RERA/1251/309/PR/010926/010558",
+      "reg": "PRM/KA/RERA/1251/309/PR/090926/008925",
+      "name": "EMBASSY SOUTH RESERVE",
+      "promoter": "SUMMIT DEVELOPMENTS LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14230",
+      "ack": "ACK/KA/RERA/1251/308/PR/050126/009906",
+      "reg": "PRM/KA/RERA/1251/308/PR/270326/008554",
+      "name": "FUTURE AVIANA",
+      "promoter": "FUTURE INFRASTRUCTURES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "27/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14602",
+      "ack": "ACK/KA/RERA/1251/309/PR/010726/010370",
+      "reg": "PRM/KA/RERA/1251/472/PR/200726/008829",
+      "name": "Fiorana@Beaumont Estate(Phase-1)",
+      "promoter": "Lodha Developers Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14354",
+      "ack": "ACK/KA/RERA/1251/310/PR/050226/009986",
+      "reg": "PRM/KA/RERA/1251/310/PR/210226/008482",
+      "name": "GOLDEN HORIZON",
+      "promoter": "SAI GANESH DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "21/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14780",
+      "ack": "ACK/KA/RERA/1251/310/PR/180626/010342",
+      "reg": "PRM/KA/RERA/1251/310/PR/200726/008830",
+      "name": "GRC SAPPHIRE SPRING PHASE II",
+      "promoter": "GRC Infra Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14821",
+      "ack": "ACK/KA/RERA/1251/308/PR/210726/010435",
+      "reg": "PRM/KA/RERA/1251/308/PR/030926/008906",
+      "name": "GURU PUNVAANII EKA PHASE-3",
+      "promoter": "GURU PUNVAANII PROPERTIES HOLDING LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "03/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14763",
+      "ack": "ACK/KA/RERA/1251/308/PR/180826/010525",
+      "reg": "PRM/KA/RERA/1251/308/PR/080926/008919",
+      "name": "Garden Breeze @ The Prestige City",
+      "promoter": "PRESTIGE PROJECTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "08/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14699",
+      "ack": "ACK/KA/RERA/1251/310/PR/230726/010448",
+      "reg": "PRM/KA/RERA/1251/310/PR/170826/008868",
+      "name": "Gardens of Brindavanam",
+      "promoter": "M/s SAMPADA HOMES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14768",
+      "ack": "ACK/KA/RERA/1251/308/PR/120726/010409",
+      "reg": "PRM/KA/RERA/1251/308/PR/150726/008810",
+      "name": "Godrej Regent Park",
+      "promoter": "GODREJ PROPERTIES LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "15/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14844",
+      "ack": "ACK/KA/RERA/1251/308/PR/090726/010396",
+      "reg": "PRM/KA/RERA/1251/308/PR/290726/008856",
+      "name": "HARMONY HOMES",
+      "promoter": "Gali Jagadish Chandra Prakash",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "29/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14876",
+      "ack": "ACK/KA/RERA/1251/446/PR/240726/010453",
+      "reg": "PRM/KA/RERA/1251/446/PR/040826/008858",
+      "name": "HPR SHADES OF GREEN",
+      "promoter": "HPR INFRA LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14538",
+      "ack": "ACK/KA/RERA/1251/308/PR/300326/010130",
+      "reg": "PRM/KA/RERA/1251/308/PR/070526/008630",
+      "name": "Habulus Oasis Grove",
+      "promoter": "HABULUS HOMES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14535",
+      "ack": "ACK/KA/RERA/1251/472/PR/030426/010148",
+      "reg": "PRM/KA/RERA/1251/472/PR/250626/008754",
+      "name": "Hanging Gardens",
+      "promoter": "Graviti Living Spaces (India) Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "25/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14324",
+      "ack": "TOR/ACK/KA/RERA/1251/309/PR/260205/009989",
+      "reg": "TOR/PRM/KA/RERA/1251/309/PR/260825/001973",
+      "name": "Hanging Gardens",
+      "promoter": "RG Unique Structures Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "25/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "12251",
+      "ack": "ACK/KA/RERA/1251/310/PR/160226/010014",
+      "reg": "PRM/KA/RERA/1251/310/PR/040326/008502",
+      "name": "Haven of Bliss",
+      "promoter": "ANEMONES HOSPITALITY AND HOTELS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/03/2026",
+      "filings": [
+        {
+          "quarter": "Q1",
+          "fy": "2026-27",
+          "submitted_on": "15-07-2026",
+          "supply": 0,
+          "demand": 0,
+          "inventory": 0,
+          "parking_tables": 1
+        }
+      ],
+      "note": null
+    },
+    {
+      "project_id": "14831",
+      "ack": "ACK/KA/RERA/1251/472/PR/300626/010368",
+      "reg": "PRM/KA/RERA/1251/472/PR/010926/008898",
+      "name": "Hoysala Vemana",
+      "promoter": "Hoysala Lifespace LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "01/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14611",
+      "ack": "ACK/KA/RERA/1251/309/PR/260426/010189",
+      "reg": "PRM/KA/RERA/1251/309/PR/220626/008738",
+      "name": "Innovative Nakshathra Enclave",
+      "promoter": "ATHIRA DEVELOPERS AND PROMOTERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Plotted Development",
+      "approved_on": "22/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14656",
+      "ack": "ACK/KA/RERA/1251/308/PR/270526/010279",
+      "reg": "PRM/KA/RERA/1251/308/PR/080626/008710",
+      "name": "J K R ENCLAVE",
+      "promoter": "Rajeev Raju",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "08/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14159",
+      "ack": "ACK/KA/RERA/1251/446/PR/051225/009835",
+      "reg": "PRM/KA/RERA/1251/446/PR/250626/008753",
+      "name": "JAI SIGNATURE",
+      "promoter": "JAI SHELTERS , H.A.VENUGOPAL & 10 OTHERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "25/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "15057",
+      "ack": "ACK/KA/RERA/1251/310/PR/030926/010566",
+      "reg": "PRM/KA/RERA/1251/310/PR/110926/008940",
+      "name": "JD SIGNATURE",
+      "promoter": "JD DEVELOPERS AND PROMOTERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "11/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14597",
+      "ack": "ACK/KA/RERA/1251/308/PR/290426/010206",
+      "reg": "PRM/KA/RERA/1251/308/PR/250526/008679",
+      "name": "JRC KANSO",
+      "promoter": "M/s JRC Projects",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "25/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14668",
+      "ack": "ACK/KA/RERA/1251/310/PR/180526/010258",
+      "reg": "PRM/KA/RERA/1251/310/PR/220626/008739",
+      "name": "KNS AADRIKA PHASE III",
+      "promoter": "KNS Infrastructure Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "22/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14427",
+      "ack": "ACK/KA/RERA/1251/446/PR/100426/010165",
+      "reg": "PRM/KA/RERA/1251/446/PR/290526/008691",
+      "name": "LEMON TREE",
+      "promoter": "LEGEND PROPERTIES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Mixed Development",
+      "approved_on": "29/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14910",
+      "ack": "ACK/KA/RERA/1251/310/PR/130826/010511",
+      "reg": "PRM/KA/RERA/1251/310/PR/010926/008900",
+      "name": "LIFE SPRINGS BY VAISHNODEVI",
+      "promoter": "Vaishnodevi Ritz Estates LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "01/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14837",
+      "ack": "ACK/KA/RERA/1251/308/PR/230726/010445",
+      "reg": "PRM/KA/RERA/1251/308/PR/110926/008937",
+      "name": "M5 ECHELON",
+      "promoter": "Mahendra Homes Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "11/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14675",
+      "ack": "ACK/KA/RERA/1251/446/PR/290626/010361",
+      "reg": "PRM/KA/RERA/1251/446/PR/170726/008823",
+      "name": "MAHAVEER CREST",
+      "promoter": "REDDY STRUCTURES PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14865",
+      "ack": "ACK/KA/RERA/1251/446/PR/130726/010410",
+      "reg": "PRM/KA/RERA/1251/446/PR/230726/008837",
+      "name": "MAITHRI SPRINGWOODS",
+      "promoter": "MAITHRI DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14168",
+      "ack": "ACK/KA/RERA/1251/472/PR/191225/009877",
+      "reg": "PRM/KA/RERA/1251/472/PR/160126/008408",
+      "name": "MANIDVIPA",
+      "promoter": "D R DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Plotted Development",
+      "approved_on": "16/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14958",
+      "ack": "ACK/KA/RERA/1251/309/PR/110826/010499",
+      "reg": "PRM/KA/RERA/1251/309/PR/110926/008938",
+      "name": "MLN Hights",
+      "promoter": "Grib awaas builders LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "11/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13141",
+      "ack": "ACK/KA/RERA/1251/446/PR/190325/009048",
+      "reg": "PRM/KA/RERA/1251/446/PR/060126/008384",
+      "name": "MONTECITO",
+      "promoter": "IMPERIAL DWELLINGS PRIVATE LIMITED AND WHITEFIELD LUXURY VILLAS LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Plotted Development",
+      "approved_on": "06/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14093",
+      "ack": "ACK/KA/RERA/1251/308/PR/060126/009911",
+      "reg": "PRM/KA/RERA/1251/308/PR/180426/008591",
+      "name": "Mythri Serene",
+      "promoter": "Mythri Developers",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/04/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13855",
+      "ack": "ACK/KA/RERA/1251/309/PR/100925/009604",
+      "reg": "PRM/KA/RERA/1251/309/PR/040526/008617",
+      "name": "N K Developers",
+      "promoter": "N K Developers",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Plotted Development",
+      "approved_on": "04/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14498",
+      "ack": "ACK/KA/RERA/1251/446/PR/050426/010150",
+      "reg": "PRM/KA/RERA/1251/446/PR/090626/008711",
+      "name": "NATURE'S NEST",
+      "promoter": "NPS DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13958",
+      "ack": "ACK/KA/RERA/1251/308/PR/061125/009752",
+      "reg": "PRM/KA/RERA/1251/308/PR/020126/008375",
+      "name": "NCC URBAN GREEN PROVINCE PHASE 2",
+      "promoter": "NCC URBAN INFRASTRUCTURE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "02/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "15014",
+      "ack": "ACK/KA/RERA/1251/309/PR/270826/010547",
+      "reg": "PRM/KA/RERA/1251/309/PR/100926/008931",
+      "name": "Nikoo Homes 9 Alpine Bhartiya Garden Hill Phase-2",
+      "promoter": "Bhartiya Urban Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "10/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14975",
+      "ack": "ACK/KA/RERA/1251/309/PR/270826/010546",
+      "reg": "PRM/KA/RERA/1251/309/PR/100926/008930",
+      "name": "Nikoo Homes 9, Alpine, Bhartiya Garden Hill Ph-1",
+      "promoter": "Bhartiya Urban Pvt Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "10/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13980",
+      "ack": "ACK/KA/RERA/1251/310/PR/111025/009692",
+      "reg": "PRM/KA/RERA/1251/310/PR/160326/008526",
+      "name": "Nisarga Layout",
+      "promoter": "Revanasiddaiah and Others",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "16/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14453",
+      "ack": "ACK/KA/RERA/1251/309/PR/110326/010092",
+      "reg": "PRM/KA/RERA/1251/309/PR/120326/008523",
+      "name": "Northern Lights by Puravankara KVN",
+      "promoter": "KVN Property Holdings LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Mixed Development",
+      "approved_on": "12/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14464",
+      "ack": "ACK/KA/RERA/1251/309/PR/110326/010094",
+      "reg": "PRM/KA/RERA/1251/309/PR/120326/008524",
+      "name": "Northern Lights by Puravankara KVN Phase 2",
+      "promoter": "KVN Property Holdings LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Mixed Development",
+      "approved_on": "12/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14465",
+      "ack": "ACK/KA/RERA/1251/309/PR/110326/010093",
+      "reg": "PRM/KA/RERA/1251/309/PR/120326/008525",
+      "name": "Northern Lights by Puravankara KVN Phase 3",
+      "promoter": "KVN Property Holdings LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Mixed Development",
+      "approved_on": "12/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14345",
+      "ack": "ACK/KA/RERA/1251/472/PR/070226/009994",
+      "reg": "PRM/KA/RERA/1251/472/PR/270226/008496",
+      "name": "PINAKINI LIFE SPACES PHASE 1",
+      "promoter": "SSE PROJECTS PVT LTD",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Plotted Development",
+      "approved_on": "27/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14977",
+      "ack": "ACK/KA/RERA/1251/309/PR/210826/010534",
+      "reg": "PRM/KA/RERA/1251/309/PR/150926/008941",
+      "name": "Prestige Parklane",
+      "promoter": "APEX REALTY MANAGEMENT PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "15/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14220",
+      "ack": "ACK/KA/RERA/1251/310/PR/311225/009901",
+      "reg": "PRM/KA/RERA/1251/310/PR/170126/008410",
+      "name": "Provident Equinox 5",
+      "promoter": "Provident Housing Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "15034",
+      "ack": "ACK/KA/RERA/1251/310/PR/290826/010555",
+      "reg": "PRM/KA/RERA/1251/310/PR/180926/008948",
+      "name": "Provident Equinox 6",
+      "promoter": "Provident Housing Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14830",
+      "ack": "ACK/KA/RERA/1251/310/PR/300626/010366",
+      "reg": "PRM/KA/RERA/1251/310/PR/090726/008801",
+      "name": "Purva Heritage",
+      "promoter": "Puravankara Ltd",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14057",
+      "ack": "ACK/KA/RERA/1251/446/PR/301225/009897",
+      "reg": "PRM/KA/RERA/1251/446/PR/230726/008834",
+      "name": "RADHESHYAM KARNASREE BRINDAVAN",
+      "promoter": "RADHESHYAM BUILDERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "23/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14045",
+      "ack": "ACK/KA/RERA/1251/308/PR/200126/009946",
+      "reg": "PRM/KA/RERA/1251/308/PR/280126/008428",
+      "name": "RHYTHM OF EARTH",
+      "promoter": "BLISSFUL ACRES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "28/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14422",
+      "ack": "ACK/KA/RERA/1251/310/PR/020426/010144",
+      "reg": "PRM/KA/RERA/1251/310/PR/200726/008828",
+      "name": "RSD ROYALS-1",
+      "promoter": "VINAY.R",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "20/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14633",
+      "ack": "ACK/KA/RERA/1251/446/PR/300626/010367",
+      "reg": "PRM/KA/RERA/1251/446/PR/160726/008812",
+      "name": "RUCHIRA THE RISE",
+      "promoter": "Ruchira Developers LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "16/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14833",
+      "ack": "ACK/KA/RERA/1251/446/PR/030726/010383",
+      "reg": "PRM/KA/RERA/1251/446/PR/050826/008859",
+      "name": "Ranka Amber",
+      "promoter": "DRA REALTY PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "05/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14805",
+      "ack": "ACK/KA/RERA/1251/310/PR/290626/010362",
+      "reg": "PRM/KA/RERA/1251/310/PR/280726/008853",
+      "name": "Rashi Vistara Phase -2",
+      "promoter": "Rashi Developers",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "28/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "11973",
+      "ack": "ACK/KA/RERA/1251/310/PR/191225/009875",
+      "reg": "PRM/KA/RERA/1251/310/PR/050626/008698",
+      "name": "S V GARDENS",
+      "promoter": "S.V. BUILDERS & DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "05/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "12745",
+      "ack": "ACK/KA/RERA/1251/308/PR/181124/008680",
+      "reg": "PRM/KA/RERA/1251/308/PR/030126/008379",
+      "name": "SAI METRO CITY 9TH PHASE",
+      "promoter": "SAI RENIIT PROJECTS PVT LTD",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "03/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14662",
+      "ack": "ACK/KA/RERA/1251/310/PR/180626/010339",
+      "reg": "PRM/KA/RERA/1251/310/PR/020926/008903",
+      "name": "SAMRUDDHI",
+      "promoter": "SPW Estates LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "02/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14979",
+      "ack": "ACK/KA/RERA/1251/446/PR/170826/010520",
+      "reg": "PRM/KA/RERA/1251/446/PR/080926/008921",
+      "name": "SATHVIK SIGNATURE",
+      "promoter": "SURINENI INFRA",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "08/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14246",
+      "ack": "ACK/KA/RERA/1251/446/PR/090926/010582",
+      "reg": "PRM/KA/RERA/1251/446/PR/180926/008944",
+      "name": "SATTVA AANGANE",
+      "promoter": "Sattva Resi Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14402",
+      "ack": "ACK/KA/RERA/1251/310/PR/020726/010375",
+      "reg": "PRM/KA/RERA/1251/310/PR/180726/008824",
+      "name": "SHREE GRUHA KALPA",
+      "promoter": "SRR DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "18/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14897",
+      "ack": "ACK/KA/RERA/1251/308/PR/220726/010442",
+      "reg": "PRM/KA/RERA/1251/308/PR/040926/008911",
+      "name": "SIGNATURE REGAL",
+      "promoter": "SIGNATURE DWELLINGS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14060",
+      "ack": "ACK/KA/RERA/1251/308/PR/091125/009760",
+      "reg": "PRM/KA/RERA/1251/308/PR/170226/008469",
+      "name": "SIMHADRI",
+      "promoter": "M/s.SIGNIFA SIMHADRI PROJECTS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "17/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13975",
+      "ack": "ACK/KA/RERA/1251/446/PR/301025/009731",
+      "reg": "PRM/KA/RERA/1251/446/PR/100726/008803",
+      "name": "SIZZLE WHITE WILLOWS PHASE 3",
+      "promoter": "SIZZLE PROPERTIES LANDS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Plotted Development",
+      "approved_on": "10/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14637",
+      "ack": "ACK/KA/RERA/1251/446/PR/020526/010214",
+      "reg": "PRM/KA/RERA/1251/446/PR/020726/008784",
+      "name": "SJ CLASSIQUE",
+      "promoter": "SJ CONSTRUCTIONS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "02/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13120",
+      "ack": "ACK/KA/RERA/1251/310/PR/300126/009970",
+      "reg": "PRM/KA/RERA/1251/310/PR/070226/008453",
+      "name": "SLV Gardens",
+      "promoter": "M/S. S L V Gardens",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "07/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14378",
+      "ack": "ACK/KA/RERA/1251/308/PR/270226/010060",
+      "reg": "PRM/KA/RERA/1251/308/PR/180326/008538",
+      "name": "SLV SIRI PARADISE",
+      "promoter": "S L V BUILDERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14400",
+      "ack": "ACK/KA/RERA/1251/446/PR/240626/010353",
+      "reg": "PRM/KA/RERA/1251/446/PR/280826/008895",
+      "name": "SRI SAI SAMRUDHI",
+      "promoter": "SRI SAI VENTURES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "28/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13795",
+      "ack": "ACK/KA/RERA/1251/309/PR/130825/009516",
+      "reg": "PRM/KA/RERA/1251/309/PR/070526/008626",
+      "name": "SUMUKHA ENCLAVE",
+      "promoter": "Narasimha Karantha K",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Plotted Development",
+      "approved_on": "07/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14770",
+      "ack": "ACK/KA/RERA/1251/310/PR/230726/010447",
+      "reg": "PRM/KA/RERA/1251/310/PR/020926/008904",
+      "name": "SUNSHINE GREEN",
+      "promoter": "SURYAKALA",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "02/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14859",
+      "ack": "ACK/KA/RERA/1251/308/PR/140726/010416",
+      "reg": "PRM/KA/RERA/1251/308/PR/180826/008871",
+      "name": "SUYUG'S THE SHALLOT MARQUE",
+      "promoter": "SUYUG VENTURES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14197",
+      "ack": "ACK/KA/RERA/1251/310/PR/240126/009960",
+      "reg": "PRM/KA/RERA/1251/310/PR/040726/008790",
+      "name": "Shravanthi Atmosphere",
+      "promoter": "SHRAVANTHI SHELTHERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Plotted Development",
+      "approved_on": "04/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14801",
+      "ack": "ACK/KA/RERA/1251/308/PR/220626/010349",
+      "reg": "PRM/KA/RERA/1251/308/PR/070926/008915",
+      "name": "Spectra Mira",
+      "promoter": "Spectra Constructions Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "07/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14777",
+      "ack": "ACK/KA/RERA/1251/310/PR/170726/010425",
+      "reg": "PRM/KA/RERA/1251/310/PR/290726/008855",
+      "name": "Sthanikam Nagabhushan Balaji Residency",
+      "promoter": "Medhabalaji Builders (Prop. J R Balaji Naidu)",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "29/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14210",
+      "ack": "ACK/KA/RERA/1251/446/PR/020126/009902",
+      "reg": "PRM/KA/RERA/1251/446/PR/160326/008527",
+      "name": "Sumukha Earthen Crest",
+      "promoter": "Sumukha Ventures",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "16/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14512",
+      "ack": "ACK/KA/RERA/1251/446/PR/240326/010121",
+      "reg": "PRM/KA/RERA/1251/446/PR/080526/008640",
+      "name": "Sumukha Nature's Symphony",
+      "promoter": "Sumukha Ventures",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "08/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14839",
+      "ack": "ACK/KA/RERA/1251/308/PR/200726/010433",
+      "reg": "PRM/KA/RERA/1251/308/PR/200826/008881",
+      "name": "T G AURA",
+      "promoter": "TG PRIME REALTY PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "20/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14226",
+      "ack": "ACK/KA/RERA/1251/308/PR/130226/010011",
+      "reg": "PRM/KA/RERA/1251/308/PR/260326/008550",
+      "name": "TBC LA PICASSO",
+      "promoter": "TBC HOMES INFRA CORP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "26/03/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14331",
+      "ack": "ACK/KA/RERA/1251/308/PR/300126/009973",
+      "reg": "PRM/KA/RERA/1251/308/PR/190226/008476",
+      "name": "TERRA VISTA",
+      "promoter": "M J REALTY",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "19/02/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14053",
+      "ack": "ACK/KA/RERA/1251/446/PR/151125/009785",
+      "reg": "PRM/KA/RERA/1251/446/PR/130126/008396",
+      "name": "THE CHIMES",
+      "promoter": "RAISE INFRA",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Plotted Development",
+      "approved_on": "13/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14880",
+      "ack": "ACK/KA/RERA/1251/308/PR/130726/010413",
+      "reg": "PRM/KA/RERA/1251/308/PR/170726/008819",
+      "name": "THE ROOTS BY ELEGANCE INFRA",
+      "promoter": "PIONIER DEVELOPMENTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "17/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14555",
+      "ack": "ACK/KA/RERA/1251/446/PR/130426/010169",
+      "reg": "PRM/KA/RERA/1251/446/PR/090626/008712",
+      "name": "THE WOODLAND FOREST",
+      "promoter": "BLUESTONE PROPERTIES",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Plotted Development",
+      "approved_on": "09/06/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14205",
+      "ack": "ACK/KA/RERA/1251/308/PR/160126/009940",
+      "reg": "PRM/KA/RERA/1251/308/PR/220126/008423",
+      "name": "The Grand County Address",
+      "promoter": "Indiabuild Realtors Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "project_type": "Plotted Development",
+      "approved_on": "22/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "13945",
+      "ack": "ACK/KA/RERA/1251/472/PR/091025/009684",
+      "reg": "PRM/KA/RERA/1251/472/PR/120126/008394",
+      "name": "The Grove By Magna",
+      "promoter": "Magna Living LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Plotted Development",
+      "approved_on": "12/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14584",
+      "ack": "ACK/KA/RERA/1251/472/PR/250426/010188",
+      "reg": "PRM/KA/RERA/1251/472/PR/050526/008623",
+      "name": "UNDER THE SILVERMOON",
+      "promoter": "SURYA SUNSHINE DEVELOPERS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Plotted Development",
+      "approved_on": "05/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14099",
+      "ack": "ACK/KA/RERA/1251/472/PR/031225/009826",
+      "reg": "PRM/KA/RERA/1251/472/PR/290126/008434",
+      "name": "UNDER THE STARS",
+      "promoter": "SSD HOUSING NELLUKUNTE",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Yelahanka",
+      "project_type": "Plotted Development",
+      "approved_on": "29/01/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14254",
+      "ack": "ACK/KA/RERA/1251/446/PR/060126/009910",
+      "reg": "PRM/KA/RERA/1251/446/PR/140526/008654",
+      "name": "UNNATHI VAIBHAVA",
+      "promoter": "K Ashoka Reddy",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Plotted Development",
+      "approved_on": "14/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14759",
+      "ack": "ACK/KA/RERA/1251/310/PR/110626/010313",
+      "reg": "PRM/KA/RERA/1251/310/PR/030826/008857",
+      "name": "VAINAVI SERENIA",
+      "promoter": "VAINAVI DEVELOPERS LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "03/08/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14817",
+      "ack": "ACK/KA/RERA/1251/309/PR/290626/010363",
+      "reg": "PRM/KA/RERA/1251/309/PR/090726/008799",
+      "name": "VASUNDRA SS VALLEY",
+      "promoter": "VASUNDRA CONSTRUCTIONS",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "09/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14673",
+      "ack": "ACK/KA/RERA/1251/310/PR/280526/010280",
+      "reg": "PRM/KA/RERA/1251/310/PR/180926/008949",
+      "name": "VRUKSHA GROVE",
+      "promoter": "JAYALAKSHMI EXPORTS AND IMPORTS PRIVATE LIMITED",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "18/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14405",
+      "ack": "ACK/KA/RERA/1251/310/PR/040526/010217",
+      "reg": "PRM/KA/RERA/1251/446/PR/070926/008912",
+      "name": "WAVES AND WHIMSY",
+      "promoter": "ISTA SPACES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "07/09/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14477",
+      "ack": "ACK/KA/RERA/1251/446/PR/310326/010136",
+      "reg": "PRM/KA/RERA/1251/446/PR/040526/008619",
+      "name": "Willow One AURALIS",
+      "promoter": "Willow 1 infrastructures Private Limited",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "04/05/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    },
+    {
+      "project_id": "14806",
+      "ack": "ACK/KA/RERA/1251/446/PR/240626/010354",
+      "reg": "PRM/KA/RERA/1251/446/PR/270726/008846",
+      "name": "ZOLAAH",
+      "promoter": "HOUSE OF JINDAL ESTATES LLP",
+      "status": "APPROVED",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru East",
+      "project_type": "Residential/Group Housing",
+      "approved_on": "27/07/2026",
+      "filings": [],
+      "note": "no_parking_table"
+    }
+  ]
+}
